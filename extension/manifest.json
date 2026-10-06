@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+    "name": "NoPhishing!",
+    "version": "1.0.0",
+    "description": "An anti-phishing browser extension and Python API."
+}

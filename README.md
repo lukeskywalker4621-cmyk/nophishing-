@@ -1,1 +1,1 @@
-# MC-anticheat2
+# NoPhishing!

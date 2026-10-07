@@ -1,4 +1,4 @@
-#Contributing
+# Contributing
 
 You’re welcome to make changes in your own fork and submit a pull request if you’d like me to review them. Submitting a pull request does not guarantee that it will be merged; I’ll merge changes only if I decide they fit the project.
 

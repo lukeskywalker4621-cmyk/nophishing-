@@ -2,5 +2,11 @@
     "manifest_version": 3,
     "name": "NoPhishing!",
     "version": "1.0.0",
-    "description": "An anti-phishing browser extension and Python API."
+    "description": "An anti-phishing browser extension and Python API.",
+    "icons": {
+        "16": "extension/assets/icons/NoPhishing_logo16.png",
+        "32": "extension/assets/icons/NoPhishing_logo32.png",
+        "48": "extension/assets/icons/NoPhishing_logo48.png",
+        "128": "extension/assets/icons/NoPhishing_logo128.png"
+    }
 }
